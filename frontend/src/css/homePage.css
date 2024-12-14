@@ -1,0 +1,11 @@
+.slick-slide {
+    transition: transform 0.5s ease;
+  }
+
+  .sale-banner {
+    transition: background-color 0.3s ease-in-out;
+  }
+  .sale-banner:hover {
+    background-color: #d9534f; /* Darker red for hover effect */
+  }
+  

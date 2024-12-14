@@ -1,0 +1,13 @@
+{
+  "books": [
+    { "id": 1, "title": "All You Can Ever Know", "author": "Nicole Chung", "price": "29.95", "imageUrl": "./book-1.jpg" },
+    { "id": 2, "title": "", "author": "", "price": "", "imageUrl": "" },
+    { "id": 3, "title": "", "author": "", "price": "", "imageUrl": "" },
+    { "id": 4, "title": "", "author": "", "price": "", "imageUrl": "" },
+    { "id": 5, "title": "", "author": "", "price": "", "imageUrl": "" },
+    { "id": 6, "title": "", "author": "", "price": "", "imageUrl": "" },
+    { "id": 7, "title": "", "author": "", "price": "", "imageUrl": "" },
+    { "id": 8, "title": "", "author": "", "price": "", "imageUrl": "" }
+  ]
+}
+

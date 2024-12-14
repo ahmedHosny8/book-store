@@ -1,0 +1,8 @@
+nodemodules
+node_modules/
+.env
+config.env
+*.env
+firebaseServiceAccount.json
+app.log
+.vercel
